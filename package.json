@@ -1,0 +1,22 @@
+{
+  "name": "naive-map",
+  "version": "1.0.0",
+  "description": "a naive javascript hash map implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stripedpajamas/naive-map.git"
+  },
+  "keywords": [
+    "hashmap"
+  ],
+  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stripedpajamas/naive-map/issues"
+  },
+  "homepage": "https://github.com/stripedpajamas/naive-map#readme"
+}
